@@ -5,4 +5,7 @@
 - npm run dev
 - Enjoy and i hope you like it!
 
-- LinkedIn: https://www.linkedin.com/in/fernandorapud/
+# Requirements
+- Node 18.12.0
+
+LinkedIn: https://www.linkedin.com/in/fernandorapud/
