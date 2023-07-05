@@ -7,5 +7,6 @@
 
 # Requirements
 - Node 18.12.0
+- Backend levantado en "http://localhost:8081"
 
 LinkedIn: https://www.linkedin.com/in/fernandorapud/
