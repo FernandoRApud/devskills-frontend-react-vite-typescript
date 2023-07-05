@@ -1,0 +1,9 @@
+.minimalHeight{
+    min-height: 69.5vh !important;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

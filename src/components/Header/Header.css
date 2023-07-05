@@ -1,0 +1,55 @@
+.site-page-header {
+    border: 1px solid rgb(235, 237, 240);
+}
+
+.imgLogo{
+    float: left;
+    max-width:80%;
+    max-height:80%;
+}
+
+.header{
+    padding-left: 1rem!important;
+    padding-right: 1rem!important;
+}
+
+.imgLogoContainer {
+    float: left;
+    width: 3rem;
+    margin: 16px 24px 16px 0;
+}
+
+.ant-row-rtl > .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+}
+
+.flex-end{
+    flex-direction: row-reverse;
+}
+
+.link:hover{
+    cursor: pointer;
+}
+
+.avatar{
+    color: white !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+.avatarCol{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.ant-row-rtl > .ant-btn {
+    margin-right: 0;
+    margin-bottom: 8px;
+    margin-left: 8px;
+}
+
+.linksSpacing {
+    margin-right: 1rem;
+}
